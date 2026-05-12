@@ -1,0 +1,65 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    //Age of a person is given, print Adult if his/her age is greater than 18, otherwise print Teenager.
+    // int age;
+    // cin>>age;
+    // if(age>18){
+    //     cout<<"Adult"<<endl;
+    // }
+    // else{
+    //     cout<<"Teenager"<<endl;
+    // }
+
+    //Take a number in input (ex n) and print the corresponding month to it. Ex: for n=1, print january, n=2, print feburary like this you need to give output. It is given that n will be greater than 0 and less than 13. 
+    // int n;
+    // cin>>n;
+    // if(n==1){
+    //     cout<<"January"<<endl;
+    // }
+    // else if(n==2){
+    //     cout<<"February"<<endl;
+    // }
+    // else if(n==3){
+    //     cout<<"March"<<endl;
+    // }
+    // else if(n==4){
+    //     cout<<"April"<<endl;
+    // }
+    // else if(n==5){
+    //     cout<<"May"<<endl;
+    // }
+    // else if(n==6){
+    //     cout<<"June"<<endl;
+    // }
+    // else if(n==7){
+    //     cout<<"July"<<endl;
+    // }
+    // else if(n==8){
+    //     cout<<"August"<<endl;
+    // }
+    // else if(n==9){
+    //     cout<<"September"<<endl;
+    // }
+    // else if(n==10){
+    //     cout<<"October"<<endl;
+    // }
+    // else if(n==11){
+    //     cout<<"November"<<endl;
+    // }
+    // else{
+    //     cout<<"December"<<endl;
+    // }
+
+    // Ticket Price Calculator: Create a program that asks the user for their age and checks if they qualify for a discounted ticket price (e.g., under 12 and over 65 get discounts), If they are eligible print “YES” else “NO”.
+    // int age;
+    // cin>>age;   
+    // if(age<12 || age>65){
+    //     cout<<"YES"<<endl;
+    // }
+    // else{
+    //     cout<<"NO"<<endl;
+    // }
+    // return 0;
+}
